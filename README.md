@@ -6,3 +6,7 @@
 - **CSS Animations**: Smooth scaling and transitions make the pop-up engaging and professional.  
 - **JavaScript Functionality**: Handles opening and closing of the pop-up modal with ease.  
 - **Responsive Design**: Ensures seamless performance across all screen sizes. 
+
+### Live Demo  
+Check out the deployed version of this project [here] 
+[https://ani1070git.github.io/Pop_Up_Design/]
