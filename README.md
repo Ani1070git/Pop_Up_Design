@@ -8,4 +8,4 @@
 - **Responsive Design**: Ensures seamless performance across all screen sizes. 
 
 ### Live Demo  
-Check out the deployed version of this project (here)[https://ani1070git.github.io/Pop_Up_Design/]
+Check out the deployed version of this project [here](https://ani1070git.github.io/Pop_Up_Design/)
